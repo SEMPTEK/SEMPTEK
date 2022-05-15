@@ -1,0 +1,44 @@
+body {
+    background-color: #F3F3F3;
+    margin: 0 auto;
+    padding-top: 50px;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar .nav_list {
+    float: right;
+    height: 30px;
+}
+
+.navbar .nav_list a {
+    width: 100px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 9px;
+    font-family: Georgia, serif;
+    color: black;
+}
+
+.navbar .nav_list a:hover {
+    background-color: white;
+    color: black;
+}
+
+.navbar .site_name {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}

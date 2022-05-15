@@ -1,0 +1,11 @@
+.site_banner {
+    height: 33vh;
+    width: 100%;
+    background-color: green;
+}
+
+.site_banner img {
+    width: 100%;
+    max-height: 33vh;
+    object-fit: cover;
+}

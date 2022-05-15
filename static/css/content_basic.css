@@ -1,0 +1,22 @@
+.content_basic {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white;
+}
+
+.content_basic a {
+    font-size: 11px;
+    font-family: Georgia, serif;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    background-color: yellow;
+}
+
+.content_basic h1 {
+    font-size: 20px;
+    font-family: Georgia, serif;
+    padding: 20px;
+    background-color: orange;
+}
